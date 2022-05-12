@@ -1,0 +1,9 @@
+{
+  "by" : "civilized",
+  "id" : 31123223,
+  "kids" : [ 31127666, 31123662, 31123525, 31124770, 31136815 ],
+  "parent" : 31122270,
+  "text" : "The recommendation system crash is coming. Name a recommendation system that shouldn&#x27;t be replaced with simple rules based on obvious and transparent metrics like popularity and ratings, or by organizing things into categories.<p>Less fancy ML nonsense, more working hard to gather high quality simple metrics.",
+  "time" : 1650642841,
+  "type" : "comment"
+}

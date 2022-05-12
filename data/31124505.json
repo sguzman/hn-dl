@@ -1,0 +1,9 @@
+{
+  "by" : "mpalczewski",
+  "id" : 31124505,
+  "kids" : [ 31127189, 31129390 ],
+  "parent" : 31122389,
+  "text" : "&gt; It&#x27;s easier just to pirate than keep up with all these streaming services.<p>It really isn&#x27;t and it&#x27;s only cheaper if you don&#x27;t put much value on your time.<p>Radarr and Sonarr don&#x27;t do anything automatically. Setting them up takes more time than they are worth.  I tried installing them.  Most would describe me as technically savvy, but I just gave up.<p>example issues. \nHere&#x27;s the quick start guide. \n<a href=\"https:&#x2F;&#x2F;wiki.servarr.com&#x2F;radarr&#x2F;quick-start-guide\" rel=\"nofollow\">https:&#x2F;&#x2F;wiki.servarr.com&#x2F;radarr&#x2F;quick-start-guide</a> \n1. Get stopped immediately at the indexer. No sane defaults there at all. No guidance either.<p>Plex doesn&#x27;t do 4k streaming to Apple TV, doesn&#x27;t do 4k to chromecast.<p>The movies you pirate frequently have technical problems, usually the sound is off. You are lucky to have subtitles that work(synced correctly).",
+  "time" : 1650647079,
+  "type" : "comment"
+}
