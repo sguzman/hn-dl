@@ -1,0 +1,9 @@
+{
+  "by" : "srdone",
+  "id" : 31130121,
+  "kids" : [ 31130157 ],
+  "parent" : 31129295,
+  "text" : "There are companies that provide on-demand pricing for just the steaming component (edgecast for example). Then just throw up a DynamoDB table and some simple apis in lambda and you have a pretty cheap (relatively) way to deliver streamed content.",
+  "time" : 1650674647,
+  "type" : "comment"
+}
