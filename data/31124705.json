@@ -1,0 +1,8 @@
+{
+  "by" : "michaelmrose",
+  "id" : 31124705,
+  "parent" : 31123468,
+  "text" : "You can run a media service for example jellyfin on the same PC as the client.<p>Installers are a thing on windows, on Ubuntu you can install software with apt. It wasn&#x27;t packaged for my distro so I downloaded an archive unzipped and dropped it in &#x2F;opt<p>Not sure why anyone would absolutely need to understand Kuberetes or even docker.<p>Plugging a PC up to a display has been a better TV for a while now.",
+  "time" : 1650647694,
+  "type" : "comment"
+}

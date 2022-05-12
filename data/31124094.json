@@ -1,0 +1,9 @@
+{
+  "by" : "jayd16",
+  "id" : 31124094,
+  "kids" : [ 31125153, 31127332 ],
+  "parent" : 31123032,
+  "text" : "A vertical list is a waste of horizontal space when it&#x27;s a list of movie posters.  They go with the carrousel for better or worse because it lets you quickly scroll through categories without scrolling through every item in a category.  If you want a grid, its basically what they have.<p>If you just want more search options, I agree but the search layout is also already a grid.<p>I&#x27;m asking for a specific implemented app that feels better in practice, not just something you think might work better.  There are subtle issues with getting this layout right.  Its not as obvious as you say when you need to deal with crap remote dpads and no keyboards.",
+  "time" : 1650645823,
+  "type" : "comment"
+}

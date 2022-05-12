@@ -1,0 +1,9 @@
+{
+  "by" : "ceejayoz",
+  "id" : 31123281,
+  "kids" : [ 31124385 ],
+  "parent" : 31122960,
+  "text" : "You&#x27;d probably lose.<p>The thing they get you on with BitTorrent isn&#x27;t the download part, it&#x27;s the seeding part, where you&#x27;re <i>distributing</i> the copyrighted content to other downloaders.<p>You could turn off seeding, but that&#x27;ll get you banned from a lot of torrent sites, and it&#x27;s not a technical distinction I&#x27;d want to have to explain in court to lay people.",
+  "time" : 1650643038,
+  "type" : "comment"
+}
