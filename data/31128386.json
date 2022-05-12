@@ -1,0 +1,9 @@
+{
+  "by" : "makecheck",
+  "id" : 31128386,
+  "kids" : [ 31128414 ],
+  "parent" : 31120094,
+  "text" : "I think it would have been interesting if Netflix had shopped around its tech stack, kind of how companies that make games can also sell game-making engines.<p>Maybe they could have had a huge windfall by offering to be the “AWS” behind every “$CHANNEL+” streaming service.  In other words, instead of having 14 kludgey apps that all suck in at least one way, we get 14 services but with a smooth implementation.<p>I don’t see how content is a long-term win for them.",
+  "time" : 1650662835,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "DevKoala",
+  "id" : 31123500,
+  "kids" : [ 31124169 ],
+  "parent" : 31120094,
+  "text" : "Serious question. Why is Netflix software engineering comp so high? Is it a small team working on all technical problems? \nIt seems that every other content provider built a decent enough streaming service and from anecdotal experience they offer between 60-70% in TC of what Netflix offers.<p>Is Netflix on more devices? Does Netflix have technology that make content distribution more efficient compared to other streaming services? Is it the location of the team, CA? I am genuinely interested.",
+  "time" : 1650643902,
+  "type" : "comment"
+}
