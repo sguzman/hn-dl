@@ -1,0 +1,23 @@
+{
+  "name": "hn-dl",
+  "version": "1.0.0",
+  "description": "Download Hacker News comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguzman/hn-dl.git"
+  },
+  "keywords": [
+    "node",
+    "hn"
+  ],
+  "author": "Salvador Guzman",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/sguzman/hn-dl/issues"
+  },
+  "homepage": "https://github.com/sguzman/hn-dl#readme"
+}
