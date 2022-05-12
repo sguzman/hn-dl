@@ -1,0 +1,9 @@
+{
+  "by" : "incongruity",
+  "id" : 31130138,
+  "kids" : [ 31130678 ],
+  "parent" : 31129918,
+  "text" : "I mean, pedantically, you’re correct but you’re missing a very substantive point - we regularly deal with metrics which are rates (or vectors) of change. Velocity is change in distance over time, for example - what Netflix had is a reversal of their growth. They had expected all inputs to yield at positive 2.5 mil. change in members. Instead, the lost 200k members. It is completely sensible to talk about their loss of velocity of growth. Moreover, if you want to be get into technicalities, they <i>lost</i> many more customers than 200k - but they gained enough new customers to <i>net</i> -200k - so why not object to that technically imprecise language too? Why? Because while technically incorrect, it still communicates something useful, just as it does to talk about the lost growth vs. expectations.",
+  "time" : 1650674789,
+  "type" : "comment"
+}
