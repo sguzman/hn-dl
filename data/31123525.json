@@ -1,0 +1,8 @@
+{
+  "by" : "kevin_thibedeau",
+  "id" : 31123525,
+  "parent" : 31123223,
+  "text" : "Netflix had a great recommendation system for their DVD catalog 15 years ago without  any ML hocuspocus. The problem now is that their content is mostly mediocre and user driven ratings can&#x27;t be used effectively to identify similar cohorts. That&#x27;s why they got rid of the stars.",
+  "time" : 1650643975,
+  "type" : "comment"
+}

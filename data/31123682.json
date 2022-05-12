@@ -1,0 +1,8 @@
+{
+  "by" : "lostlogin",
+  "id" : 31123682,
+  "parent" : 31123039,
+  "text" : "&gt; Running a large media server can actually be pretty costly on power bills these days.<p>Only if using server hardware, and that isn’t a good way to do it. A recent generation igpu and a low power computer is the way to go. You’ll get 10+ streams out an Intel Nuc, or similar sff pc. The expensive bit is the storage array.",
+  "time" : 1650644512,
+  "type" : "comment"
+}

@@ -1,0 +1,9 @@
+{
+  "by" : "sgarland",
+  "id" : 31123468,
+  "kids" : [ 31124676, 31124705 ],
+  "parent" : 31123240,
+  "text" : "Agreed. While the *arrs are &quot;easy&quot; to set up once you have good knowledge of Kubernetes or at least Docker Compose, that&#x27;s not exactly common. If you&#x27;re using the native Windows clients, there&#x27;s a pretty good chance you don&#x27;t have a NAS set up (or at least not well), which means there&#x27;s a decent chance you&#x27;ll eventually have a hardware failure, and then be surprised when your media is suddenly gone.<p>ZFS pools with full backups, redundant hardware, and highly available servers is not normal.",
+  "time" : 1650643775,
+  "type" : "comment"
+}
